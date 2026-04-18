@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 39 records |
 | Free sample size | 3 records (7.69%) |
-| Last export | 2026-04-07T15:44:14.436575+00:00 |
+| Last export | 2026-04-14T22:07:20.333659+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-los-angeles-long-beach-anaheim-metro-california-us-sample-529628/releases/download/sample-latest/beamstation_529628_food_and_drink-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
