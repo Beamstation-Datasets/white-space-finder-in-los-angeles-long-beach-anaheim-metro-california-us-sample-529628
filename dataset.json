@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Los Angeles-Long Beach-Anaheim, CA that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Los Angeles-Long Beach-Anaheim (Metro), California, US",
-  "export_job_id": "37255a4f-b051-434b-8736-2b12ead08b2c",
+  "export_job_id": "3def6a2a-a19c-48e4-98a0-bc6af7254362",
   "github_org": "Beamstation-Datasets",
   "id_short": 529628,
   "location_name": "Los Angeles-Long Beach-Anaheim, CA",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/529628/beamstation_529628_food_and_drink-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
   "sample_pct": 7.69,
   "sample_records": 3,
-  "sample_sha256": "b14100a2871be0f4c9b4e683271e542f22f83d4742ff134259154285269a8f98",
-  "sample_size_bytes": 27319,
+  "sample_sha256": "d5f71267509d9c8a4b403814a2b0267a2dc967a2d5b37408eedcde2769f34a34",
+  "sample_size_bytes": 27582,
   "total_records": 39,
-  "updated_at": "2026-04-07T15:44:14.436575+00:00"
+  "updated_at": "2026-04-14T22:07:20.333659+00:00"
 }
