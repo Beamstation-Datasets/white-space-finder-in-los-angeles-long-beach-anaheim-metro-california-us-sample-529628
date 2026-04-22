@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3def6a2a-a19c-48e4-98a0-bc6af7254362",
+  "export_job_id": "ec33aed9-1936-4110-a92a-d3610900dc80",
   "id_short": 529628,
-  "published_at": "2026-04-18T19:18:06Z",
+  "published_at": "2026-04-22T07:37:40Z",
   "repo_name": "white-space-finder-in-los-angeles-long-beach-anaheim-metro-california-us-sample-529628",
   "sample_asset_name": "beamstation_529628_food_and_drink-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/529628/beamstation_529628_food_and_drink-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
   "sample_records": 3,
-  "sample_sha256": "d5f71267509d9c8a4b403814a2b0267a2dc967a2d5b37408eedcde2769f34a34",
-  "sample_size_bytes": 27582,
-  "total_records": 39
+  "sample_sha256": "f4e9abf0ff4e5ae4d89a7a724be8729a3282fb18b077f9aa9406098b767f8d89",
+  "sample_size_bytes": 27565,
+  "total_records": 34
 }
