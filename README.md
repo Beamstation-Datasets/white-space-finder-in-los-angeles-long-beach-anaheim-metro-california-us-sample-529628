@@ -1,6 +1,6 @@
 # White Space Finder in Los Angeles-Long Beach-Anaheim (Metro), California, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `529628` |
 | Location | Los Angeles-Long Beach-Anaheim, CA |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-22T00:58:18.863156+00:00 |
+| Full dataset size | 28 records |
+| Free sample size | 2 records (7.14%) |
+| Last export | 2026-04-29T03:57:13.065979+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-los-angeles-long-beach-anaheim-metro-california-us-sample-529628/releases/download/sample-latest/beamstation_529628_food_and_drink-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
